@@ -1,1 +1,0 @@
-# dice-color-game
